@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ go get github.com/yoppi/go-chatwork
+$ go get github.com/rskull/go-chatwork
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ $ go get github.com/yoppi/go-chatwork
 package main
 
 import (
-  chatwork "github.com/yoppi/go-chatwork"
+  chatwork "github.com/rskull/go-chatwork"
 )
 
 func main() {
