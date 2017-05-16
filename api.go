@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 )
 
-const BaseUrl = `https://api.chatwork.com/v1`
+const BaseUrl = `https://api.chatwork.com/v2`
 
 type Me struct {
 	AccountId        int    `json:"account_id"`
